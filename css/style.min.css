@@ -864,6 +864,11 @@ html {
     background-color: #46adc4;
 }
 
+.bg-index-green {
+    padding: 40px 0px 116px 0px;
+    background-color: #46adc4;
+}
+
 @media(max-width: 1199.98px) {
     .bg-home4 .home-img {
         width: 100%;
