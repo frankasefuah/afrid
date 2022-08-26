@@ -347,7 +347,7 @@ html {
 .btn-fr-outline {
     background: white;
     border-color: #46adc4 !important;
-    color: black;
+    color: #46adc4;
 }
 
 .btn-outline-info:hover,
